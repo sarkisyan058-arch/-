@@ -1,4 +1,4 @@
-[донорство.sql](https://github.com/user-attachments/files/27860524/default.sql)
+[донорство.sql](https://github.com/user-attachments/files/28790696/default.sql)
 -- 1) Определить регионы с наибольшим количеством зарегистрированных доноров
 SELECT region,
        COUNT(id) AS donor_count
